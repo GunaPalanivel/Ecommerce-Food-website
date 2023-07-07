@@ -6,11 +6,10 @@ Responsive design: The website layout adapts to different screen sizes, providin
 Menu navigation: Users can navigate through different sections of the website using the menu items provided.
 Food categories: The website displays different food categories, including Biryani, Chicken Delicious, Paneer Mania, Pure Veg Dishes, Chinese Corner, and South Indian.
 Cart functionality: Users can add food items to their cart, view the cart contents, and proceed to checkout.
-User account: The website includes a user section where users can log in or create an account.
 
 # Technologies Used
-HTML5
-CSS3
-JavaScript
-Bootstrap 5
-Font Awesome
+HTML5, 
+CSS3, 
+JavaScript, 
+Bootstrap 5, 
+Font Awesome.
